@@ -79,9 +79,6 @@ public class AuthSessionBean {
     SessionContext sessionContext;
 
 //   private String baseUrl = "http://10.0.0.126:4985/zingy/";
-     private String baseUrl = "http://81.171.24.208:4985/myapp/";
-//   private String baseUrl = "http://127.0.0.1:4985/myapp/";
-//   private String baseUrl = "http://212.32.242.133:4985/myapp/";
 //   private String baseUrl = "http://127.0.0.1:4848";
           
           
